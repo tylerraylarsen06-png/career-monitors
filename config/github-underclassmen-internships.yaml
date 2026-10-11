@@ -1,0 +1,12 @@
+name: "GitHub list - zapplyjobs underclassmen internships"
+url: "https://github.com/zapplyjobs/underclassmen-internships"
+type: html
+selector: "article.markdown-body"
+min_content_length: 2000
+notify: discord
+goal: >
+  This list exists only for freshmen and sophomores. Alert when a row is added,
+  or when a program's status flips to Open or gets an open date or deadline.
+  Every such change is relevant to a Class of 2029 sophomore. Ignore rows that
+  close, cosmetic edits, image or badge changes, and quant trading programs
+  (Jane Street, Citadel, Two Sigma, HRT, Virtu).

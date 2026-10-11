@@ -1,0 +1,12 @@
+name: "Bain First Forward (sophomore summit)"
+url: "https://www.bain.com/careers/work-with-us/internships-programs/first-forward/"
+type: html
+selector: "main"
+min_content_length: 500
+notify: discord
+goal: >
+  First Forward is a sophomore summit. As of 2026-10-09 the page shows the
+  Jan 28-29 summit and FAQ but no apply link or deadline. Alert the moment
+  an Apply button, application link, open date or deadline appears, or
+  eligibility changes.
+  The universal application also covers BEL and CREW. Ignore cosmetic edits.

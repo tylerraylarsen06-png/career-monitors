@@ -1,0 +1,11 @@
+name: "JPMorganChase Fellowship Program"
+url: "https://www.jpmorganchase.com/careers/explore-opportunities/programs/jpmcfellowship"
+type: html
+min_content_length: 500
+notify: discord
+# NOTE: same platform/rendering concerns as jpmorgan-programs.yaml -- see
+# that file's comment. No selector set (whole-page text).
+goal: >
+  Alert when the JPMorganChase Fellowship Program opens applications,
+  changes its deadline, or changes eligibility requirements. Ignore
+  cosmetic/layout changes and navigation noise.
