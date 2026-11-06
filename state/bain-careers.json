@@ -1,5 +1,5 @@
 {
-  "consecutive_failures": 25,
-  "last_checked_at": "2026-11-05T13:41:54+00:00",
+  "consecutive_failures": 26,
+  "last_checked_at": "2026-11-06T13:25:20+00:00",
   "last_error": "HTTP 403 fetching https://www.bain.com/careers/students-and-graduates/"
 }
