@@ -1,7 +1,7 @@
 {
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "last_changed_at": "2026-10-14T10:49:47+00:00",
-  "last_checked_at": "2026-11-10T13:56:10+00:00",
+  "last_checked_at": "2026-11-11T13:10:16+00:00",
   "last_error": "HTTP 404 fetching https://www.jpmorganchase.com/careers/explore-opportunities/programs/jpmcfellowship",
   "last_hash": "a46e5f3de82848868430b312ea8e3dcca509f86373008b2eb90ec2d79bbac335",
   "last_success_at": "2026-11-09T14:39:31+00:00",
