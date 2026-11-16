@@ -1,5 +1,5 @@
 {
-  "consecutive_failures": 35,
-  "last_checked_at": "2026-11-15T13:07:49+00:00",
+  "consecutive_failures": 36,
+  "last_checked_at": "2026-11-16T14:15:39+00:00",
   "last_error": "HTTP 403 fetching https://www.bain.com/careers/work-with-us/internships-programs/first-forward/"
 }
