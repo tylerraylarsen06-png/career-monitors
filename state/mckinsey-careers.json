@@ -1,5 +1,5 @@
 {
-  "consecutive_failures": 46,
-  "last_checked_at": "2026-11-26T15:59:45+00:00",
+  "consecutive_failures": 47,
+  "last_checked_at": "2026-11-27T15:48:00+00:00",
   "last_error": "network error fetching https://www.mckinsey.com/careers/students: HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=20)"
 }
